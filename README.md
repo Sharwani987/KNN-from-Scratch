@@ -46,4 +46,3 @@ This project demonstrates a **manual implementation of the K‑Nearest Neighbors
 - Importance of feature scaling in KNN  
 - Handling categorical and numerical features together  
 - Performance trade‑offs in brute‑force KNN  
-
