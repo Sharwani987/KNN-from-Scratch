@@ -35,11 +35,6 @@ This project demonstrates a **manual implementation of the K‑Nearest Neighbors
    - Metrics: Accuracy, MAE, RMSE  
    - Compare scratch implementation with scikit‑learn’s `KNeighborsClassifier` and `KNeighborsRegressor`  
 
-6. **Visualization**  
-   - Scatter plots for feature relationships  
-   - Decision boundaries for classification  
-   - Error distribution plots for regression  
-
 
 ##  Results
 - Scratch KNN achieves performance comparable to scikit‑learn’s implementation  
